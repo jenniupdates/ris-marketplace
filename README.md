@@ -9,7 +9,7 @@
 - lastly has other utilities good for Ristonians such as duration calculator (esp for pvac), sogong game, etc
 - build using django, and intending to be connected to AWS cloud database, and with logs for verification purposes
 
-App builds:
+### App builds:
 - Django (python)
 - Tailwind (CSS)
 - HTML (template)
